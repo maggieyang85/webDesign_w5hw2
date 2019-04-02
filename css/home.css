@@ -1,0 +1,171 @@
+html{
+	width: 1260px;
+	height: 960px;
+}
+
+body{
+	background: #EDF2C5;
+	margin: 0px
+}
+
+.container{
+	max-width: 940px;
+	margin-left:160px;
+	margin-right: 160px;
+}
+
+footer{
+	width: 1260px;
+	background: #778A50;
+	font-family: 'ArialMT', sans-serif;
+    font-size: 12px;
+	color: #EDF2C5;
+	padding-top: 24px;
+	padding-right: 479px;
+	padding-left: 479px;
+	padding-bottom: 25px
+}
+
+.head_title{
+	width: 271px;
+    height: 42px;
+    margin-top: 53px;
+    margin-bottom: 8px;
+    font-size: 44px;
+    line-height: 42px;
+    font-family: 'Arial Black', sans-serif;
+    color: #778A50;
+}
+
+nav{
+	display: flex;
+    list-style: none;
+    height: 44px;
+    border-radius: 3px;
+    margin-bottom: 20px;
+    line-height: 44px;
+    font-family: 'Arial Black', sans-serif;
+    background-color: #778A50;
+}
+
+.li_item{
+	margin: 16px 30px;
+    text-decoration: none;
+    color: #EDF2C5;
+}
+
+hr{
+	width: 414px;
+	color: #7D7D7D;
+	margin-top: 16px;
+	margin-bottom: 16px
+}
+
+.header{
+	display: flex;
+    justify-content: space-between;
+}
+.icon_group{
+	display: flex;
+	height: 25px;
+    margin-top: 60px;
+    margin-bottom: 17px;
+    margin-right: -10px
+}
+
+.btn_social{
+	width: 25px;
+    height: 25px;
+    border-radius: 3px;
+    border: 1px;
+   	margin-right: 10px;
+    background-color: #778A50;
+    padding: 0px;
+    
+}
+
+
+.btn_regist{
+   	width: 60px;
+    height: 25px;
+    margin-right: 10px;
+    border: 1px solid #778A50;
+    border-radius: 3px;
+    font-size: 14px;
+    font-family: 'Arial BoldMT', sans-serif;
+    color: #778A50;
+    background-color: #EDF2C5;
+    
+}
+
+.line{
+	height: 25px;
+    border-left: 1px solid #778A50;
+    margin-right: 10px;
+}
+
+.main_pic{
+}
+
+.main_area_title{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 30px;
+}
+
+.sidebar_left,
+.sidebar_right{
+	flex-direction: row;
+	width:415px;
+  	margin-bottom: 15px
+	padding-top: 15px;
+	padding-left: 30px;
+	color: #EDF2C5;
+	font-size:15px;
+}
+
+
+.box_sidebar{
+	height:45px;
+	background: #778A50;
+	border-radius: 3px;
+	margin-bottom: 15px;
+}
+
+
+
+.main_area{
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 35px
+}
+
+.leftbar{
+	margin-right: 60px;
+}
+.rightbar{
+	text-align: left;
+    width: 415px;
+    height: 108px;
+    padding: 16px 15px;
+    background-color: #f7fbda;
+}
+.p_contact_text{
+	margin-bottom: 16px;
+	margin-top: 0px;
+    font-size: 12px;
+    line-height: 1.33;
+    font-family: 'ArialMT Regular', sans-serif;
+    color: #7d7d7d;
+}
+
+.vegetable_imgs{
+	display: flex;
+	justify-content: space-between;
+    width: 445px;
+    height: 140px;
+    margin-right: 12px;
+}
+
+
+
